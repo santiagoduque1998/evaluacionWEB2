@@ -47,10 +47,17 @@ span{
     max-width:100px;
     border-radius:20px;
 }
-h3{
+h3,h5{
     margin-left:5px;
+    font-family: 'Squada One', cursive;
 }
-main{
-    background-image: url("img/marFondo.jpg") ;
+body{
+    color:white;
+    background-image: url("img/Fondo.jpg") ;
 }
+footer,a{
+    margin-top: 40px;
+    margin-left: 40px;
+}
+
 
